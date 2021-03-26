@@ -1,4 +1,8 @@
 # damage-calc
+![](https://github.com/AYA-kurokiri09/damage-calc-4005-gh-actions/workflows/Damage%20Calculation%20Test/badge.svg)
+
+このモジュールでは、ダメージ計算を行うことができます。
+ダメージ計算には
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
